@@ -4,3 +4,5 @@ A lot of factors were not relevant like the customer id and the row number, as e
 We have implemented the prediction model using ANN.
 The architecture of the model can be seen in the code itself.
 Note->The model is a raw output of recent learnings and hasn't been optimised, but will soon be.
+
+The given jupyter notebook has all the libraries that were used in the prediction model.
